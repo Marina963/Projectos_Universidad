@@ -4,11 +4,11 @@ En este repositorio se encuntran los enlaces a las distintas prácticas que he i
 
 
 ### [Sistemas Interactivos y Ubicuos](https://github.com/Marina963/Projectos_Universidad/blob/main/Sistemas%20Interactivos%20y%20Ubicuos)
-### Interfaces de Usuario
-### Sistemas Distribuidos
-### Procesadores del lenguaje
-### Aprendizaje Automativo
-### Criptografía
-### Heurística
+### [Interfaces de Usuario]([https://github.com/100472175/InterfacesUsuario_01](https://github.com/Marina963/Projectos_Universidad/blob/main/Interfaces%20de%20usurio.md))
+### [Sistemas Distribuidos](https://github.com/Marina963/Projectos_Universidad/blob/main/Sistemas%20Distribuidos.md)
 ### Arquitectura de computadores
 ### Sistemas operativos
+### Aprendizaje Automativo
+### Procesadores del lenguaje
+### Criptografía
+### Heurística
