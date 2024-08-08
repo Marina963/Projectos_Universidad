@@ -6,7 +6,7 @@ Los siguintes enlaces corresponden a diferentes asiganturas que he ido cursando 
 ### [Sistemas Interactivos y Ubicuos](https://github.com/Marina963/Projectos_Universidad/blob/main/Sistemas%20Interactivos%20y%20Ubicuos.md)
 ### [Interfaces de Usuario](https://github.com/Marina963/Projectos_Universidad/blob/main/Interfaces%20de%20usurio.md)
 ### [Sistemas Distribuidos](https://github.com/Marina963/Projectos_Universidad/blob/main/Sistemas%20Distribuidos.md)
-### Arquitectura de computadores
+### [Arquitectura de Computadores](https://github.com/Marina963/Projectos_Universidad/blob/main/Sistemas%20Distribuidos.md)
 ### Sistemas operativos
 ### Aprendizaje Automativo
 ### Procesadores del lenguaje
