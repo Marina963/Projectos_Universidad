@@ -7,7 +7,7 @@ En esta practica se ha realizado una mini web local que permite usar una mapa y 
 ## Practica 2
 En esta practica se ha realizado una lista de notas que perite poner las tareas que tienes pendientes y marcarlas como terminadas o no terminadas.
 
-###[Prática 2](https://github.com/Marina963/lab2)
+#### [Prática 2](https://github.com/Marina963/lab2)
 
 ## Proyecto Final
 Este proyecto es una aplicación de una tienda ropa que evita el uso de iteracciones tactiles. Esta realizadda en JS, HTML y CSS. Contiene un cliente servidor con API REST y express. Para evitar las itereciones tactiles se ha hecho uso de APIs.
